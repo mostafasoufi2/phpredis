@@ -9,11 +9,11 @@ and PhpRedis adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 - Include RedisSentinelTest.php in package.xml!
   [eddbfc8f](https://github.com/phpredis/phpredis/commits/eddbfc8f)
-  (([Remi Collet](https://github.com/remicollet))
+  ([Michel Grunder](https://github.com/michael-grunder))
 
 - Fix -Wmaybe-uninitialized warning
   [740b8c87](https://github.com/phpredis/phpredis/commits/7408c87)
-  (([Remi Collet](https://github.com/remicollet))
+  ([Remi Collet](https://github.com/remicollet))
 
 - Use php_rand instead of php_mt_rand for liveness challenge string
   [9ef2ed89](https://github.com/phpredis/phpredis/commits/9ef2ed89)

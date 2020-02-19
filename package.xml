@@ -40,7 +40,7 @@ http://pear.php.net/dtd/package-2.0.xsd">
  <notes>
     phpredis 5.2.0RC2
 
-    * Include RedisSentinelTest.php in package.xml! [eddbfc8f] (Remi Collet)
+    * Include RedisSentinelTest.php in package.xml! [eddbfc8f] (Michael Grunder)
     * Fix -Wmaybe-uninitialized warning [740b8c87] (Remi Collet)
     * Use php_rand instead of php_mt_rand for liveness challenge string [9ef2ed89]
       (Michael Grunder)
