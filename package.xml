@@ -42,6 +42,8 @@ http://pear.php.net/dtd/package-2.0.xsd">
 
     * Include RedisSentinelTest.php in package.xml! [eddbfc8f] (Remi Collet)
     * Fix -Wmaybe-uninitialized warning [740b8c87] (Remi Collet)
+    * Use php_rand instead of php_mt_rand for liveness challenge string [9ef2ed89]
+      (Michael Grunder)
 
     phpredis 5.2.0RC1
 
@@ -54,6 +56,7 @@ http://pear.php.net/dtd/package-2.0.xsd">
                will likely change based on user feedback.
 
     * Sponsors
+      ~ Audiomack.com - https://www.audiomack.com
       ~ Till Kruss - https://github.com/tillkruss
 
     ---

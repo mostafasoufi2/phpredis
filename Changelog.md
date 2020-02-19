@@ -7,6 +7,18 @@ and PhpRedis adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ## [5.2.0RC2] - 2020-02-17 ([GitHub](https://github.com/phpredis/phpredis/releases/tag/5.2.0RC2), [PECL](https://pecl.php.net/package/redis/5.2.0RC2))
 
+- Include RedisSentinelTest.php in package.xml!
+  [eddbfc8f](https://github.com/phpredis/phpredis/commits/eddbfc8f)
+  (([Remi Collet](https://github.com/remicollet))
+
+- Fix -Wmaybe-uninitialized warning
+  [740b8c87](https://github.com/phpredis/phpredis/commits/7408c87)
+  (([Remi Collet](https://github.com/remicollet))
+
+- Use php_rand instead of php_mt_rand for liveness challenge string
+  [9ef2ed89](https://github.com/phpredis/phpredis/commits/9ef2ed89)
+  ([Michael Grunder](https://github.com/michael-grunder))
+
 ### Sponsors :sparkling_heart:
 
 - [Audiomack.com](https://www.audiomack.com)
