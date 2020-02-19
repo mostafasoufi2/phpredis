@@ -9,6 +9,7 @@ and PhpRedis adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ### Sponsors :sparkling_heart:
 
+- [Audiomack.com](https://www.audiomack.com)
 - [Till Krüss](https://github.com/tillkruss)
 
 ### Added
