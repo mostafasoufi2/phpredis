@@ -19,7 +19,7 @@ and PhpRedis adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
   ([Michel Grunder](https://github.com/michael-grunder))
 
 - Fix -Wmaybe-uninitialized warning
-  [740b8c87](https://github.com/phpredis/phpredis/commit/7408c87)
+  [740b8c87](https://github.com/phpredis/phpredis/commit/740b8c87)
   ([Remi Collet](https://github.com/remicollet))
 
 - Use php_rand instead of php_mt_rand for liveness challenge string
