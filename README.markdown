@@ -22,7 +22,7 @@ You can also make a one-time contribution with one of the links below.
 ## Sponsors
 
 <a href="https://www.audiomack.com" rel="nofollow">
-    <img src="https://styleguide.audiomack.com/styleguide/assets/dl/inline-orange-large.png" alt="Audiomack.com" width="150">
+    <img src="https://styleguide.audiomack.com/styleguide/assets/dl/inline-orange-large.png" alt="Audiomack.com" width="124" height="17">
 </a>
 
 # Table of contents
